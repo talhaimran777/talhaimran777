@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer @ Coding Cops
+Experienced software engineer with a strong focus on web development. Passionate about creating robust and scalable web applications using the latest technologies and best practices. With a proven track record of delivering high-quality code, I am committed to creating efficient, maintainable, and user-friendly software solutions. As an enthusiastic learner, I am always seeking new challenges and opportunities to expand my skills and knowledge.
 
 
 ## 🌐 Socials:
